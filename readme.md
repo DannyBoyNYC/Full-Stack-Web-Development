@@ -1,6 +1,6 @@
 #Full Stack Web Development Diploma
 
-This diploma course aims to take the student from the basics of designing a web page to the ability to develop web applications using the latest technologies
+This diploma course takes the student from the basics of designing a web page to the ability to develop web applications using the technologies most in demand in the industry. Currently this means developing web apps using Node, ExpressJS, Angular, React and MongoDB. 
 
 ## Table of Contents
 1. [Requirements](#requirements)
@@ -60,7 +60,16 @@ This diploma course aims to take the student from the basics of designing a web 
 - Sass and Media Queries
 - Bootstrap and SASS
 
+##The Command Line
+- The shell
+- Navigating the file system
+- Using FTP
+- SSH
+- Alternatives for Windows users
+
 ##Git and Github
+- Understanding Git and versioning
+
 
 ##JavaScript I
 
