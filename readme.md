@@ -2,9 +2,14 @@
 
 # Table of Contents
 1. [Requirements](#requirements)
+
+# Section One
 1. [HTML](#html)
 2. [CSS](#css)
 3. [The Browser](#the-browser)
+3. [Preprocessors](#preprocessors)
+3. [Git and Github](#git-and-github)
+3. [JavaScript I](#javascript-i)
 
 ##Requirements
 
@@ -29,6 +34,7 @@
 - Elements
 - The Console
 - Working Incognito
+- Working with mobile browsers
 
 ##Preprocessors
 - Sass Workflow
