@@ -72,5 +72,8 @@ This diploma course takes the student from the basics of designing a web page to
 
 
 ##JavaScript I
+- 
+
+
 
 #Section Two
