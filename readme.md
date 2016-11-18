@@ -62,7 +62,7 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 ##The Browser
 - Developer tools
 - The Console
-- Working Incognito
+- Working Incognito 
 - Working with mobile browsers
 
 ##Preprocessors
