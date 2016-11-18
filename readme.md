@@ -11,6 +11,7 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 
 ## 1 Front End Fundamentals
 1. [HTML](#html)
+1. [Tooling](#tooling)
 2. [CSS](#css)
 3. [The Browser](#the-browser)
 3. [Preprocessors](#preprocessors)
@@ -43,6 +44,12 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 - Semantics
 - Rich Media and SVG
 - Web Forms
+
+##Tooling
+- Test editors
+- Package managers
+- Bower, Git, NodeJS, NPM
+- Installing and configuring
 
 ###Reading
 - [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
