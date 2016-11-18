@@ -1,12 +1,15 @@
 #Full Stack Web Development Diploma
 
-This diploma course takes the student from the basics of designing a web page to the ability to develop web applications using the technologies most in demand in the industry. Currently this means developing web apps using Node, ExpressJS, Angular, React and MongoDB. 
+This diploma course takes the student from the basics of designing a web page to the ability to develop web applications using the technologies most in demand in the industry. Currently this means developing web apps using Node, ExpressJS, Angular, React and MongoDB but this will change over time. For this reason we recommend a curriculum reevaluation every 4 semesters (2 sessions).
+
+The curriculum is divided into 3 phases and the contents of each phase will be presented in a manner that provides the student a wholistic view of the development process. This means that the content outlined below will be presented in a manner which is less linear that this outline would suggest (e.g. [HTML](#html) and [CSS](#css) will be presented concurrently). The class outlines reflect this.
 
 ## Table of Contents
+
 1. [Requirements](#requirements)
 1. [Schedule](#schedule)
 
-## Section One
+## Front End Fundamentals
 1. [HTML](#html)
 2. [CSS](#css)
 3. [The Browser](#the-browser)
@@ -14,7 +17,7 @@ This diploma course takes the student from the basics of designing a web page to
 3. [Git and Github](#git-and-github)
 3. [JavaScript I](#javascript-i)
 
-##Section Two
+##Phase Two
 1. []()
 
 ===
@@ -23,7 +26,7 @@ This diploma course takes the student from the basics of designing a web page to
 - Proficiency with MacOS or Windows 10
 - A Mac or Windows laptop running the latest version of the OS
 - Fluency in English
-- Able to devote two hours outside class for every one hour of class time on projects and assignments
+- Able to devote one hour outside class for every one hour of class time on projects and assignments
 
 ##Schedule
 - two 3 hour classes per week and 5 hours on alternating Saturdays
@@ -31,14 +34,17 @@ This diploma course takes the student from the basics of designing a web page to
 - Mondays and Thursdays plus alternating Saturdays
 - 28 weeks over two semesters (part time)
 
-#Section One
+#Front End Fundamentals
 
 ##HTML
-- History of Markup
-- The Design of HTML5
+- HTML5 doctype 
+- HTML tags and attributes
 - Rich Media
 - Web Forms
 - Semantics
+
+###Reading
+- [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers)
 
 ##CSS
 - Using CSS
@@ -47,33 +53,54 @@ This diploma course takes the student from the basics of designing a web page to
 - Layout with flexbox
 - Mobile first responsive design
 - CSS Transitions and animation
-- CSS Grids
+
+###Reading
+- [CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)
+- [Responsive Design: Patterns and Principles](https://abookapart.com/products/responsive-design-patterns-principles)
+
 
 ##The Browser
-- Elements
+- Developer tools
 - The Console
 - Working Incognito
 - Working with mobile browsers
 
 ##Preprocessors
-- Sass Workflow
+- Sass preprocessing workflows
+- Nesting, variables, and mixins
 - Sass and Media Queries
 - Bootstrap and SASS
+###Reading
+- [SASS for Web Designers](https://abookapart.com/products/sass-for-web-designers)
 
 ##The Command Line
-- The shell
 - Navigating the file system
 - Using FTP
-- SSH
+- Using SSH
 - Alternatives for Windows users
 
 ##Git and Github
 - Understanding Git and versioning
+- Branching and merging
+- Remotes (Github)
 
+###Reading
+- [GIT for Humans](https://abookapart.com/products/git-for-humans)
 
 ##JavaScript I
+- Values and types, objects, built-in type methods, variables and scope, conditionals
+- Pure Javascript vs DOM scripting
+- Javascript and JS libraries
+- JavaScript framesworks
+
+###Reading
+- [Javascript for Web Designers](https://abookapart.com/products/javascript-for-web-designers)
+
+
+
+#Phase Two
+
+##CSS II (SASS)
+- Preprocessing workflows
+- Nesting, variables, and mixins
 - 
-
-
-
-#Section Two
