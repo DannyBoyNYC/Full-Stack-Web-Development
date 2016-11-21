@@ -37,12 +37,14 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 - Fluency in English
 - Able to devote one hour outside class for every one hour of class time on projects and assignments
 - Able to devote three hours per week on reading
-- Ability to recognize an HTML tag, an HTML attribute, a CSS rule
+- Ability to recognize an HTML tag, an HTML attribute, and a CSS rule
+- Ability to describe the stucture of an HTML page
 
 ##Admission
-- Prospective students will be asked to complete a 15 minute telephone / Skype interview
+Selective admission ensures a level playing field and enhances the perceived value of the offering.
+- Prospective students will be asked to complete a 20 minute telephone / Skype interview
 - If the interviewee determines that the student does not meet requirements reading may be assigned and a second interview scheduled
-
+- If the prospective student is over qualified a determination will be made based on further conversation
 
 #Front End Fundamentals
 
@@ -125,5 +127,11 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 ###Reading
 - [Javascript the good parts](http://shop.oreilly.com/product/9780596517748.do)
 
-##
+##[Workflows](https://github.com/mean-fall-2016/session-3)
+- Node Package Manager
+- Gulp workflows
+- Bower for static assets
+- Brower Refresh, SASS preprocessing
+
+##Node JS
 
