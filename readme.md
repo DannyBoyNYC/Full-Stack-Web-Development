@@ -6,8 +6,9 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 
 ## Table of Contents
 
-1. [Requirements](#requirements)
 1. [Schedule](#schedule)
+1. [Requirements](#requirements)
+1. [Admission](#admission)
 
 ## 1 Front End Fundamentals
 1. [HTML](#html)
@@ -18,10 +19,17 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 3. [Git and Github](#git-and-github)
 3. [Javascript I](#javascript-i)
 
-##Phase Two
-1. []()
+## 2 Front End Frameworks
+1. [Javascript II](#javascript-ii)
+1. [Javascript II](#javascript-ii)
 
 ===
+
+##Schedule
+- two 3 hour classes per week and 5 hours on alternating Saturdays
+- 240 contact hours
+- Mondays and Thursdays plus alternating Saturdays
+- 28 weeks over two semesters (part time)
 
 ##Requirements
 - Proficiency with MacOS or Windows 10
@@ -29,12 +37,12 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 - Fluency in English
 - Able to devote one hour outside class for every one hour of class time on projects and assignments
 - Able to devote three hours per week on reading
+- Ability to recognize an HTML tag, an HTML attribute, a CSS rule
 
-##Schedule
-- two 3 hour classes per week and 5 hours on alternating Saturdays
-- 240 contact hours
-- Mondays and Thursdays plus alternating Saturdays
-- 28 weeks over two semesters (part time)
+##Admission
+- Prospective students will be asked to complete a 15 minute telephone / Skype interview
+- If the interviewee determines that the student does not meet requirements reading may be assigned and a second interview scheduled
+
 
 #Front End Fundamentals
 
