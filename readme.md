@@ -57,7 +57,7 @@ Selective admission ensures a level playing field and enhances the perceived val
 
 ##Tooling
 - Text editors - Sublime, Brackets, Atom, MS Code
-- Package management
+- Package management, Emmet
 - Bower, Git, NodeJS, NPM
 - Installing and configuring
 
