@@ -56,8 +56,8 @@ Selective admission ensures a level playing field and enhances the perceived val
 - Web Forms
 
 ##Tooling
-- Test editors
-- Package managers
+- Text editors - Sublime, Brackets, Atom, MS Code
+- Package management
 - Bower, Git, NodeJS, NPM
 - Installing and configuring
 
