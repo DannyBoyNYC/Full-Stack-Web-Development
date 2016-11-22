@@ -52,13 +52,14 @@ Selective admission ensures a level playing field and enhances the perceived val
 - HTML5 doctype 
 - HTML tags and attributes
 - Semantics
+- Data attributes and validation
 - Rich Media and SVG
 - Web Forms
 
 ##Tooling
 - Text editors - Sublime, Brackets, Atom, MS Code
 - Package management, Emmet
-- Bower, Git, NodeJS, NPM
+- Bower, Git, NodeJS, NPM, MongoDB
 - Installing and configuring
 
 ###Reading
@@ -123,16 +124,33 @@ Selective admission ensures a level playing field and enhances the perceived val
 - AJAX
 - JSON and JSONP
 - Fetching and Parsing JSON
-- Theory and anatomy of a SPA (single page application)
+- Theory and anatomy of a single page application
 
 ###Reading
 - [Javascript the good parts](http://shop.oreilly.com/product/9780596517748.do)
 
 ##[Workflows](https://github.com/mean-fall-2016/session-3)
 - Node Package Manager
+- Package.json
 - Gulp workflows
-- Bower for static assets
+- Bower and static assets
 - Brower Refresh, SASS preprocessing
 
 ##Node JS
+
+##Angular
+
+##ExpressJS
+
+##MongoDB
+
+##Rest API
+- HTTP 
+- API Routes
+
+##Full Stack Development
+
+##React
+
+##
 
