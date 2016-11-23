@@ -124,7 +124,7 @@ Selective admission ensures a level playing field and enhances the perceived val
 - AJAX
 - JSON and JSONP
 - Fetching and Parsing JSON
-- Theory and anatomy of a single page application
+- Lodash
 
 ###Reading
 - [Javascript the good parts](http://shop.oreilly.com/product/9780596517748.do)
