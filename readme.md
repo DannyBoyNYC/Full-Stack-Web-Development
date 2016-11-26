@@ -1,6 +1,6 @@
 #Full Stack Web Development Diploma
 
-The proliferation of full stack developer bootcamps testifies to the need for the skills in the industry but most of these bootcamps do not cover the critical task of front end development. This proposal is unique in its emphasis on those front end skills which are typically dealt with by the bootcamps in a perfunctory manner, if at all. The diploma offers instruction in both front and back end skills on order to create a more rounded full stack developer. We anticipate that students coming to NYU for this offering will be interested in the high level design, decision making and leadership rolls as well as the hard skills required for a fully rounded education in the field. And we intend to offer just that.
+The proliferation of full stack developer bootcamps testifies to the need for the skills in the industry but most of these bootcamps do not cover the critical task of front end development. This proposal is unique in its emphasis on those front end skills which are typically dealt with by the bootcamps in a perfunctory manner, if at all. The diploma offers instruction in both front and back end skills on order to create a more rounded full stack developer. We anticipate that students coming to NYU for this offering will be interested in the high level design and decision making as well as the hard skills required for a fully rounded education in the field. 
 
 This diploma course takes the student from the basics of designing a web page to the ability to develop web applications using the technologies most in demand in the industry. Currently this means developing web apps using Node, ExpressJS, Angular, React and MongoDB but this will change over time. For this reason we recommend a curriculum reevaluation every 4 semesters (2 sessions).
 
@@ -34,11 +34,12 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 - 28 weeks over two semesters (part time)
 
 ##Requirements
-- Proficiency with MacOS or Windows 10
+- Some post secondary education
+- A high degree of proficiency with MacOS or Windows 10
 - A Mac or Windows laptop running the latest version of the OS
 - Fluency in English
 - Able to devote one hour outside class for every one hour of class time on projects and assignments
-- Able to devote three hours per week on reading
+- Able to devote two hours per week on reading
 - Ability to recognize an HTML tag, an HTML attribute, and a CSS rule
 - Ability to describe the stucture of an HTML page
 
@@ -46,7 +47,7 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 Selective admission ensures a level playing field and enhances the perceived value of the offering.
 - Prospective students will be asked to complete a 20 minute telephone / Skype interview
 - If the interviewee determines that the student does not meet requirements reading may be assigned and a second interview scheduled
-- If the prospective student is over qualified a determination will be made based on further conversation
+- If the prospective student is deemed over qualified a determination will be made by the instructor
 
 #Front End Fundamentals
 
