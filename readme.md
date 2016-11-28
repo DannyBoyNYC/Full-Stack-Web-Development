@@ -111,7 +111,8 @@ Selective admission ensures a level playing field and enhances the perceived val
 - [GIT for Humans](https://abookapart.com/products/git-for-humans)
 
 ##Javascript I
-- Values and types, objects, built-in type methods, variables and scope, conditionals
+- Values and types, objects, built-in methods 
+- Variables and scope, conditionals
 - Pure Javascript vs DOM scripting
 - JavaScript frameworks
 - Javascript and JS libraries (jQuery)
@@ -123,7 +124,8 @@ Selective admission ensures a level playing field and enhances the perceived val
 #2 Front End Frameworks
 
 ##Javascript II
-- Objects, functions, inheritance, arrays
+- Objects, functions
+- Inheritance, arrays
 - AJAX
 - JSON and JSONP
 - Fetching and Parsing JSON
@@ -151,7 +153,8 @@ Selective admission ensures a level playing field and enhances the perceived val
 - HTTP 
 - API Routes
 
-##Full Stack Development
+##ES6
+- let
 
 ##React
 
