@@ -149,8 +149,24 @@ Selective admission ensures a level playing field and enhances the perceived val
 - Callbacks vs. promises
 
 ##Angular 1.X
+- creating an angular module
+- interpolating data with angular
+- adding controllers to an application
+- configuring an application using the ngRoute module
+- accessing data with the $http object
+- using angular promises
+- creating server side api routes
 
 ##ExpressJS
+- setting up an express application
+- understanding express routing
+- using Jade templates
+- extending Jade templates
+- passing data to get requests
+- passing data to views
+- creating static routes
+- passing data using middleware
+- using the body-parser module
 
 ##MongoDB
 - starting mongod
