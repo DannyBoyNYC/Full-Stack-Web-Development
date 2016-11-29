@@ -23,8 +23,15 @@ The curriculum is divided into 3 phases and the contents of each phase will be p
 
 ## 2 Front End Frameworks
 1. [Javascript II](#javascript-ii)
-1. [Javascript II](#javascript-ii)
+1. [Workflows](#workflows)
+1. [NodeJS](#node-js)
+1. [Angular 1.x](#angular-1x)
+1. [Express](#expressjs)
+1. [MongoDB](#mongodb)
+1. [Rest APIs](#rest-api)
+1. [ES6](#es6)
 
+## 3 Front End Frameworks
 ===
 
 ##Schedule
