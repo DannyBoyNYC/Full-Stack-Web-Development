@@ -82,8 +82,9 @@ Selective admission ensures a level playing field and enhances the perceived val
 
 ##The Browser
 - Developer tools
-- The Console
-- Working Incognito 
+- Elements
+- Console
+- Sources and debugging
 - Working with mobile browsers
 
 ##Preprocessors
@@ -142,19 +143,35 @@ Selective admission ensures a level playing field and enhances the perceived val
 - Brower Refresh, SASS preprocessing
 
 ##Node JS
+- Creating node modules
+- Exposing module properties
+- Interacting with other modules
+- Callbacks vs. promises
 
-##Angular
+##Angular 1.X
 
 ##ExpressJS
 
 ##MongoDB
+- starting mongod
+- accessing mongo through shell with mongo
+commands - show dbs, use <database>, show collections, db.<collection>.insert, db.<collection>.update, db.<collection>.remove
+- creating a db module which connects to a database
+- creating a mongoose Schema and Model
+- calling find on a mongoose model
+- difference between mongoose model classes and instances
+- calling save on an instance of a mongoose model
+- using mongoose callbacks vs. promises
+
 
 ##Rest API
 - HTTP 
 - API Routes
 
 ##ES6
-- let
+- let and const variables and block scope
+- Arrow functions
+- Backticks
 
 ##React
 
