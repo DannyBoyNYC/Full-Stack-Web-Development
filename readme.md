@@ -6,6 +6,12 @@ This diploma course takes the student from the basics of designing a web page to
 
 The curriculum is divided into 3 phases and the contents of each phase will be presented in a manner that provides a wholistic view of the development process. This means that the content outlined below will be presented in a manner which is less linear that this outline would suggest (e.g. [HTML](#html) and [CSS](#css) and [the Browser](#the-browser) will be presented concurrently begining week one with [javascript DOM scripting](#javascript-i) being folded into the discussion beginning week three). The individual class outlines and projects reflect this progression.
 
+Individual class outlines for [1 Front End Fundamentals](https://github.com/foundations-fall-2016)
+
+Individual class outlines for [2 Front End Frameworks](https://github.com/mean-fall-2016)
+
+Individual class outlines for 3 Front End Frameworks (t.c./ in progress)
+
 ## Table of Contents
 
 1. [Schedule](#schedule)
