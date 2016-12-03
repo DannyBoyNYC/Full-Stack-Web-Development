@@ -200,7 +200,9 @@ commands - show dbs, use <database>, show collections, db.<collection>.insert, d
 ##ES6
 - let and const variables and block scope
 - Arrow functions
-- Backticks
+- Destruturing
+- Classes and Modules
+- Babel and Webpack
 
 
 #3 Front End Frameworks
