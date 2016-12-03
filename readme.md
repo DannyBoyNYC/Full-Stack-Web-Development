@@ -202,6 +202,7 @@ commands - show dbs, use <database>, show collections, db.<collection>.insert, d
 - Arrow functions
 - Destruturing
 - Classes and Modules
+- exports
 - Babel and Webpack
 
 
