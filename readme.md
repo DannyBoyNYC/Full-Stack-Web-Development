@@ -4,7 +4,7 @@ The proliferation of full stack developer bootcamps testifies to the need for th
 
 This diploma course takes the student from the basics of designing a web page to the ability to develop web applications using the technologies most in demand in the industry. Currently this means developing web apps using Node, ExpressJS, Angular, React and MongoDB but this will change over time. For this reason we recommend a curriculum reevaluation every 4 semesters (2 sessions).
 
-The curriculum is divided into 3 phases and the contents of each phase will be presented in a manner that provides a wholistic view of the development process. This means that the content outlined below will be presented in a manner which is less linear that this outline would suggest (e.g. [HTML](#html) and [CSS](#css) and [the Browser](#the-browser) will be presented concurrently begining week one with [javascript DOM scripting](#javascript-i) being folded into the discussion beginning week three). The individual class outlines and projects reflect this progression.
+The curriculum is divided into 3 phases and the contents of each phase will be presented in a manner that provides a holistic  view of the development process. This means that the content outlined below will be presented in a manner which is less linear that this outline would suggest (e.g. [HTML](#html) and [CSS](#css) and [the Browser](#the-browser) will be presented concurrently beginning week one with [javascript DOM scripting](#javascript-i) being folded into the discussion beginning week three). The individual class outlines and projects reflect this progression.
 
 Individual class outlines for [1 Front End Fundamentals](https://github.com/foundations-fall-2016)
 
